@@ -1,0 +1,65 @@
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\bin\Debug\MediRep.exe.config
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\bin\Debug\MediRep.exe
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\bin\Debug\MediRep.pdb
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.csproj.AssemblyReference.cache
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.Properties.Resources.resources
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.csproj.GenerateResource.cache
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.exe
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.pdb
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Dodaj_Pakiet.resources
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Lista_Środków.resources
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\bin\Debug\MediRep.exe.config
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\bin\Debug\MediRep.exe
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\bin\Debug\MediRep.pdb
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.csproj.AssemblyReference.cache
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Dodaj_Pakiet.resources
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Lista_Środków.resources
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.Properties.Resources.resources
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.csproj.GenerateResource.cache
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.exe
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.pdb
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.csproj.AssemblyReference.cache
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.Start.resources
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Dodaj_Pakiet.resources
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Lista_Środków.resources
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.Properties.Resources.resources
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.csproj.GenerateResource.cache
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.exe
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.pdb
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\bin\Debug\MediRep.exe.config
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\bin\Debug\MediRep.exe
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\bin\Debug\MediRep.pdb
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\bin\Debug\itextsharp.dll
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\bin\Debug\itextsharp.xml
+C:\Users\Maciej Bielik\Desktop\Nowy folder\MediRep\MediRep\obj\Debug\MediRep.csproj.CopyComplete
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\bin\Debug\itextsharp.dll
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\bin\Debug\itextsharp.xml
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.Start.resources
+C:\Users\Maciej Bielik\Desktop\folder\MediRep\MediRep\obj\Debug\MediRep.csproj.CopyComplete
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\bin\Debug\itextsharp.dll
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\bin\Debug\itextsharp.xml
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.Start.resources
+C:\Users\Maciej Bielik\Desktop\MediRep\MediRep\obj\Debug\MediRep.csproj.CopyComplete
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\bin\Debug\MediRep.exe.config
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\bin\Debug\MediRep.exe
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\bin\Debug\MediRep.pdb
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\bin\Debug\BouncyCastle.Crypto.dll
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\bin\Debug\itextsharp.dll
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\bin\Debug\itextsharp.xml
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.csproj.AssemblyReference.cache
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.csproj.SuggestedBindingRedirects.cache
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.Start.resources
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Dodaj_Pakiet.resources
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.Forms.Form_Lista_Środków.resources
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.Properties.Resources.resources
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.csproj.GenerateResource.cache
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.csproj.CoreCompileInputs.cache
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.csproj.CopyComplete
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.exe
+F:\Studia\Informatyka\Studia\III rok\Semestr II\Programowanie w technologi ADO.NET\MediRep\MediRep\obj\Debug\MediRep.pdb
