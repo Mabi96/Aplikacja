@@ -5,3 +5,5 @@
 2. Dwa pliki tekstowe tworzą całą strukturę bazy dancyh.
 
 3. Następnie połaczyć bazę z aplikacją w Visual Studio.
+
+PDF jest planem biznesowym do czego aplikacja miała służyć.
